@@ -1,0 +1,24 @@
+div {
+    margin: 5px;
+}
+body {
+    border: 1px solid black;
+    width: 500px;
+}
+.long {
+    height: 100px;
+    width: 200px;
+}
+.label {
+    width: 100px;
+    text-align:right;
+    
+}
+.flex {
+    display: flex;
+
+}
+input {
+    width: 200px;
+    height: 20px;
+}
