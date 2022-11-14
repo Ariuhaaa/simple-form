@@ -1,0 +1,23 @@
+ul {
+    list-style: none;
+}
+body 
+{
+    width: 500px;
+    border: 1px solid black ;
+    border-radius: 20px;
+}
+li {
+    margin: 20px;
+    width: solid 100px;
+    text-align:right;
+}
+input {
+    width: 300px;
+}
+.long {
+    height: 100px;
+}
+.start {
+    margin-left: 20px;
+}
